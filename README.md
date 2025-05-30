@@ -1,0 +1,2 @@
+# Deploy-a-Web-Application-on-AWS-using-an-Auto-Scaling-Group
+This project covers essential tasks like creating a VPC, setting up VPC endpoints, launching a web server instance, creating custom AMIs, configuring an Application Load Balancer, and establishing an Auto Scaling Group. The post also delves into database setup, managing credentials with Secrets Manager, and enabling web server to access  secrets.
