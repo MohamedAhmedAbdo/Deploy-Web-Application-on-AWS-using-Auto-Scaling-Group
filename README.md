@@ -45,7 +45,7 @@ This project provides a comprehensive, step-by-step guide to deploying a scalabl
 
 The deployed infrastructure includes:
 
-- VPC with 2 public and 2 private subnets across 2 Availability Zones
+- VPC with 2 public and 4 private subnets across 2 Availability Zones
 - S3 Gateway Endpoint for private subnet access
 - Web Server instances (LAMP stack)
 - Custom AMI based on configured web server
