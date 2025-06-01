@@ -332,4 +332,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 ## Project Implementation (Video)
 
-Video : 
+Video : https://drive.google.com/drive/folders/1PFkgZeJoz1pwwN2rgYeZT_lAw_A3gPLx?usp=sharing
